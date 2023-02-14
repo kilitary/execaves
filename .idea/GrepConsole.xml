@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GrepConsole">
+    <option name="tailHistory">
+      <TailHistory>
+        <option name="items">
+          <set>
+            <TailItem>
+              <option name="path" value="$PROJECT_DIR$/../malware-classification/suspect/list.log" />
+            </TailItem>
+            <TailItem>
+              <option name="path" value="$PROJECT_DIR$/../malware-classification/data.csv" />
+            </TailItem>
+            <TailItem>
+              <option name="path" value="$USER_HOME$/AppData/Local/JetBrains/PyCharm2022.1/log/idea.log" />
+            </TailItem>
+          </set>
+        </option>
+      </TailHistory>
+    </option>
+  </component>
+</project>

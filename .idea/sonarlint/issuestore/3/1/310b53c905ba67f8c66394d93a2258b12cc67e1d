@@ -1,0 +1,10 @@
+
+spython:S1192‚"UDefine a constant instead of duplicating this literal 'The membership flag' 18 times.(•®ññıÿÿÿÿ
+Lpython:S1066 "/Merge this if statement with the enclosing one.(½€§òøÿÿÿÿ
+€python:S101¿"iRename class "Appcall_array__" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(Ééÿ4
+‰python:S101ù"lRename class "Appcall_callable__" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ãó¢‡ÿÿÿÿÿ
+python:S101´"jRename class "Appcall_consts__" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(‡‘™r
+fpython:S116â"NRename this field "Consts" to match the regular expression ^[_a-z][_a-z0-9]*$.(¦ÂÁë
+€python:S101Ã"cRename class "Appcall__" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(‰ıÓ§üÿÿÿÿ
+Ipython:S5806İ"+Rename this variable; it shadows a builtin.(Îœòîÿÿÿÿÿ
+fpython:S100ñ"IRename method "UTF16" to match the regular expression ^[a-z_][a-z0-9_]*$.(åÉ›üÿÿÿÿ

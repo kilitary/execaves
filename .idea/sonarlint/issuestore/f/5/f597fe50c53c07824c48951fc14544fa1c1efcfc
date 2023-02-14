@@ -1,0 +1,43 @@
+
+ˆpython:S1192Ç["jDefine a constant instead of duplicating this literal "%s [thisown=%s, owned by IDAPython as=%s]" 3 times.(ºæçäüÿÿÿÿ
+ipython:S1192Ì"JDefine a constant instead of duplicating this literal ' but got ' 7 times.(Ä±ãêûÿÿÿÿ
+jpython:S1192»["LDefine a constant instead of duplicating this literal "(not owned)" 3 times.(‘ˆšúÿÿÿÿÿ
+ˆpython:S1192["jDefine a constant instead of duplicating this literal "%s is already owned, and cannot be reused" 3 times.(ÙÎã²ûÿÿÿÿ
+„python:S1192¦K"kDefine a constant instead of duplicating this literal "No constructor defined - class is abstract" 3 times.(²à…ù
+xpython:S1192™Ì"YDefine a constant instead of duplicating this literal 'type of `key` should be ' 5 times.(çİşúÿÿÿÿ
+|python:S1192“["^Define a constant instead of duplicating this literal "Condition \"%s\" not verified" 3 times.(°™Í’üÿÿÿÿ
+ipython:S1192ËS"PDefine a constant instead of duplicating this literal "self.t == mop_z" 4 times.(Ã®Ë
+’python:S1192˜["zDefine a constant instead of duplicating this literal "%s already owns attribute \"%s\" (%s); cannot be modified" 3 times.(‘›É{
+mpython:S1192Ì"NDefine a constant instead of duplicating this literal 'key not found' 4 times.(¹¤÷üÿÿÿÿ
+tpython:S1192"VDefine a constant instead of duplicating this literal 'The membership flag' 136 times.(•®ññıÿÿÿÿ
+upython:S1192¾7"WDefine a constant instead of duplicating this literal "No constructor defined" 5 times.(«´¨”üÿÿÿÿ
+bpython:S5797ó•"HReplace this expression; used as a condition it will always be constant.(–ÕœÃ
+Lpython:S1066 "/Merge this if statement with the enclosing one.(½€§òøÿÿÿÿ
+hpython:S5607›Ì"IFix this invalid "+" operation between incompatible types (str and type).(ğé‰–ıÿÿÿÿ
+python:S101Š#"gRename class "Hexrays_Hooks" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(˜ôìû
+Zpython:S5724åZ"ARemove 1 parameters; property getter methods receive only "self".(¯ŠòÕ
+_python:S5724‰["ARemove 1 parameters; property getter methods receive only "self".(©¦›äùÿÿÿÿ
+[python:S112öZ">Replace this generic exception class with a more specific one.(•ÔÜˆşÿÿÿÿ
+[python:S112“[">Replace this generic exception class with a more specific one.(°™Í’üÿÿÿÿ
+Upython:S112˜[">Replace this generic exception class with a more specific one.(‘›É{
+[python:S112[">Replace this generic exception class with a more specific one.(ÙÎã²ûÿÿÿÿ
+_python:S5724l"ARemove 1 parameters; property getter methods receive only "self".(©¦›äùÿÿÿÿ
+[python:S112™l">Replace this generic exception class with a more specific one.(°™Í’üÿÿÿÿ
+Upython:S112l">Replace this generic exception class with a more specific one.(‘›É{
+[python:S112£l">Replace this generic exception class with a more specific one.(ÙÎã²ûÿÿÿÿ
+`python:S5724ö"ARemove 1 parameters; property getter methods receive only "self".(·¹¥íùÿÿÿÿ
+`python:S5724š"ARemove 1 parameters; property getter methods receive only "self".(©¦›äùÿÿÿÿ
+\python:S112‡">Replace this generic exception class with a more specific one.(¦™Úûÿÿÿÿ
+\python:S112¤">Replace this generic exception class with a more specific one.(°™Í’üÿÿÿÿ
+Vpython:S112©">Replace this generic exception class with a more specific one.(‘›É{
+\python:S112®">Replace this generic exception class with a more specific one.(ÙÎã²ûÿÿÿÿ
+7python:S3626«Ê"Remove this redundant return.(ÙãŞŸ
+7python:S3626Ì"Remove this redundant return.(ÙãŞŸ
+7python:S3626©Ì"Remove this redundant return.(ÙãŞŸ
+7python:S3626¹Ì"Remove this redundant return.(ÙãŞŸ
+7python:S3626ÎÌ"Remove this redundant return.(ÙãŞŸ
+Epython:S5806ÊÌ"+Rename this variable; it shadows a builtin.(¼Şø˜
+7python:S3626ÖÌ"Remove this redundant return.(ÙãŞŸ
+Epython:S5806ÒÌ"+Rename this variable; it shadows a builtin.(¼Şø˜
+7python:S3626ŞÌ"Remove this redundant return.(ÙãŞŸ
+Epython:S5806ÚÌ"+Rename this variable; it shadows a builtin.(¼Şø˜
